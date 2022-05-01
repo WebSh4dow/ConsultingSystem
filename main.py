@@ -7,7 +7,7 @@ from tkcalendar import Calendar,DateEntry
 from tkinter import ttk
 from view import *
 from tkinter import messagebox 
-#AUTHOR-------------------------- @FirwXtz----------------------------- 
+#AUTHOR-------------------------- @FireXtz----------------------------- 
 
 #Tabela de Cores
 
