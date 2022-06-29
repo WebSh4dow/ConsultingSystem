@@ -15,5 +15,5 @@
 - UPDATE
 - DELETE
 
--Cadastro de clientes: criar cliente o tipo de serviço, descrição, email e contato de clientes 
+- Cadastro de clientes: criar cliente o tipo de serviço, descrição, email e contato de clientes 
 ![alt text](https://github.com/FireXtz/img-icons/blob/main/TelaCadastroLimpaPython.png)
