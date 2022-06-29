@@ -7,6 +7,8 @@
 - sudo apt-get install python3-tk python3-dev
 - pip install tkcalendar
 
+
+
 - OPERAÇÔES DE CRUD 
 - CREATE
 - READ
